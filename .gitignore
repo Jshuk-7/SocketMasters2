@@ -1,0 +1,7 @@
+/.vs
+/x64
+SocketMasters2/x64
+
+*.vcxproj
+*.user
+*.filters
